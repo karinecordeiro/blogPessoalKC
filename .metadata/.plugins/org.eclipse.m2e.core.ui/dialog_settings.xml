@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\karin\Documents\blogPessoalKC"/>
 			<item value="C:\Users\karin\Documents\BlogPessoal"/>
 		</list>
 		<list key="projectNameTemplate">
